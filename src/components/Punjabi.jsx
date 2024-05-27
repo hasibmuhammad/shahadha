@@ -17,7 +17,11 @@ const Punjabi = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-10 gap-10 place-items-center">
         <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-          <Image src={image1} className="h-[300px] object-cover rounded-t-md" />
+          <Image
+            src={image1}
+            className="h-[300px] object-cover rounded-t-md"
+            alt="Product Image"
+          />
           <div class="px-5 py-5">
             <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
@@ -90,7 +94,11 @@ const Punjabi = () => {
           </div>
         </div>
         <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-          <Image src={image2} className="h-[300px] object-cover rounded-t-md" />
+          <Image
+            src={image2}
+            className="h-[300px] object-cover rounded-t-md"
+            alt="Product Image"
+          />
           <div class="px-5 py-5">
             <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
@@ -163,7 +171,11 @@ const Punjabi = () => {
           </div>
         </div>
         <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-          <Image src={image3} className="h-[300px] object-cover rounded-t-md" />
+          <Image
+            src={image3}
+            className="h-[300px] object-cover rounded-t-md"
+            alt="Product Image"
+          />
           <div class="px-5 py-5">
             <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
@@ -236,7 +248,11 @@ const Punjabi = () => {
           </div>
         </div>
         <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-          <Image src={image4} className="h-[300px] object-cover rounded-t-md" />
+          <Image
+            src={image4}
+            className="h-[300px] object-cover rounded-t-md"
+            alt="Product Image"
+          />
           <div class="px-5 py-5">
             <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
@@ -309,7 +325,11 @@ const Punjabi = () => {
           </div>
         </div>
         <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-          <Image src={image3} className="h-[300px] object-cover rounded-t-md" />
+          <Image
+            src={image3}
+            className="h-[300px] object-cover rounded-t-md"
+            alt="Product Image"
+          />
           <div class="px-5 py-5">
             <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
@@ -382,7 +402,11 @@ const Punjabi = () => {
           </div>
         </div>
         <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-          <Image src={image4} className="h-[300px] object-cover rounded-t-md" />
+          <Image
+            src={image4}
+            className="h-[300px] object-cover rounded-t-md"
+            alt="Product Image"
+          />
           <div class="px-5 py-5">
             <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
