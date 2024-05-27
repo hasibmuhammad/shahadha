@@ -3,6 +3,7 @@ import image1 from "../../public/1.jpeg";
 import image2 from "../../public/2.jpeg";
 import image3 from "../../public/3.jpeg";
 import image4 from "../../public/4.jpeg";
+import Link from "next/link";
 const Punjabi = () => {
   return (
     <div className="max-w-7xl mx-auto">
@@ -84,12 +85,16 @@ const Punjabi = () => {
               <span class="text-3xl font-bold text-gray-900 dark:text-white">
                 ৳1990
               </span>
-              <a
-                href="#"
-                class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+              <Link
+                target="_blank"
+                href={
+                  "https://www.facebook.com/profile.php?id=61559482554618&mibextid=ZbWKwL"
+                }
               >
-                Add to cart
-              </a>
+                <button class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                  Add to cart
+                </button>
+              </Link>
             </div>
           </div>
         </div>
@@ -161,12 +166,16 @@ const Punjabi = () => {
               <span class="text-3xl font-bold text-gray-900 dark:text-white">
                 ৳1990
               </span>
-              <a
-                href="#"
-                class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+              <Link
+                target="_blank"
+                href={
+                  "https://www.facebook.com/profile.php?id=61559482554618&mibextid=ZbWKwL"
+                }
               >
-                Add to cart
-              </a>
+                <button class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                  Add to cart
+                </button>
+              </Link>
             </div>
           </div>
         </div>
@@ -238,12 +247,16 @@ const Punjabi = () => {
               <span class="text-3xl font-bold text-gray-900 dark:text-white">
                 ৳1990
               </span>
-              <a
-                href="#"
-                class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+              <Link
+                target="_blank"
+                href={
+                  "https://www.facebook.com/profile.php?id=61559482554618&mibextid=ZbWKwL"
+                }
               >
-                Add to cart
-              </a>
+                <button class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                  Add to cart
+                </button>
+              </Link>
             </div>
           </div>
         </div>
@@ -315,12 +328,16 @@ const Punjabi = () => {
               <span class="text-3xl font-bold text-gray-900 dark:text-white">
                 ৳1990
               </span>
-              <a
-                href="#"
-                class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+              <Link
+                target="_blank"
+                href={
+                  "https://www.facebook.com/profile.php?id=61559482554618&mibextid=ZbWKwL"
+                }
               >
-                Add to cart
-              </a>
+                <button class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                  Add to cart
+                </button>
+              </Link>
             </div>
           </div>
         </div>
@@ -392,12 +409,16 @@ const Punjabi = () => {
               <span class="text-3xl font-bold text-gray-900 dark:text-white">
                 ৳1990
               </span>
-              <a
-                href="#"
-                class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+              <Link
+                target="_blank"
+                href={
+                  "https://www.facebook.com/profile.php?id=61559482554618&mibextid=ZbWKwL"
+                }
               >
-                Add to cart
-              </a>
+                <button class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                  Add to cart
+                </button>
+              </Link>
             </div>
           </div>
         </div>
@@ -469,12 +490,16 @@ const Punjabi = () => {
               <span class="text-3xl font-bold text-gray-900 dark:text-white">
                 ৳1990
               </span>
-              <a
-                href="#"
-                class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+              <Link
+                target="_blank"
+                href={
+                  "https://www.facebook.com/profile.php?id=61559482554618&mibextid=ZbWKwL"
+                }
               >
-                Add to cart
-              </a>
+                <button class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                  Add to cart
+                </button>
+              </Link>
             </div>
           </div>
         </div>
