@@ -25,10 +25,12 @@ const Hero = () => {
         <Image
           className="hidden md:block w-1/2 object-cover rounded-md"
           src={model}
+          alt="Model Image"
         />
         <Image
           className="hidden md:block w-1/2 absolute top-28 left-72 rounded-lg"
           src={model2}
+          alt="Model Image"
         />
       </div>
     </div>
