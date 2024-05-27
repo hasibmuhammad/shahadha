@@ -1,4 +1,3 @@
-import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Punjabi from "@/components/Punjabi";
 import Tshirts from "@/components/Tshirts";
@@ -15,9 +14,6 @@ export default function Home() {
       <div className="mt-24 md:mt-32 px-5 lg:px-0">
         <Tshirts />
       </div>
-      <footer className="mt-24 pb-10 px-5 lg:px-0">
-        <Footer />
-      </footer>
     </main>
   );
 }
