@@ -10,7 +10,7 @@ const Hero = () => {
           <br />
           Premium <br /> Collection
         </h1>
-        <p>
+        <p className="text-sm">
           You will get all the latest collection on Shahadha. <br /> We are here
           to offer you the best products in affordable price. <br /> Just choose
           your products and Order we will deliver to you.

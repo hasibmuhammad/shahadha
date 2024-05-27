@@ -1,8 +1,8 @@
-import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Background from "@/components/Background";
-const inter = Inter({ subsets: ["latin"] });
+import { Poppins } from "next/font/google";
+const poppins = Poppins({ subsets: ["latin"], weight: "200" });
 
 export const metadata = {
   title: "Shahadha - Tshirt | Punjabi",
@@ -12,7 +12,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`relative ${inter.className} text-white`}>
+      <body className={`relative ${poppins.className} text-white`}>
         <Background />
         <Header />
         {children}
