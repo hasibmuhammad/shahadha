@@ -5,7 +5,7 @@ import Tshirts from "@/components/Tshirts";
 export default function Home() {
   return (
     <main className="">
-      <div className="md:mt-32">
+      <div className="lg:mt-32">
         <Hero />
       </div>
       <div className="md:mt-60 px-5 lg:px-0">

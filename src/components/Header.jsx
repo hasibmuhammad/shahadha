@@ -3,7 +3,7 @@ import Link from "next/link";
 const Header = () => {
   return (
     <div className="max-w-7xl mx-auto py-10 px-10 lg:px-0">
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-center lg:justify-between">
         <Link href={"/"}>
           <h1 className={`uppercase text-3xl tracking-widest`}>Shahadha</h1>
         </Link>
